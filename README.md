@@ -1,2 +1,2 @@
 # the3dshacker.github.io
-My website
+I make a few projects like macOSKit and pls support me
